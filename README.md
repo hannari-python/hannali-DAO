@@ -22,4 +22,4 @@
   - PROG
   - https://polygonscan.com/token/0x14e1BD8689c150509a14DB70B2d8C8cD33747CDf
 - VOTING
-  - Snapshot: https://snapshot.org/#/chomoku.eth
+  - Snapshot: https://snapshot.org/#/hannalidao.eth
