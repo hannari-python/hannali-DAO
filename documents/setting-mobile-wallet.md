@@ -3,6 +3,7 @@
 - スマホにMetamaskを導入する
 - その方がトークンとか使いやすいよねって感じです
 - ＰＣでもよいです
+- 下より、coincheckの記事の方が分かりやすいので、こっちを参考にするとよいです。　https://coincheck.com/ja/article/472
 
 ## Metamaskの導入
 
