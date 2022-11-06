@@ -28,3 +28,6 @@ PROGは現時点では何の価値も持ちません。
   - Snapshot: https://snapshot.org/#/hannalidao.eth
 - Discussion
   - Discord: https://discord.gg/6kAtxmRX
+- Twitter
+  - https://twitter.com/HannaliDAO  
+
